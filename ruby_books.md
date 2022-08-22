@@ -8,8 +8,6 @@
 
 *Unreviewed, initially with Amazon links only.*
 
-* Comprehensive Ruby Programming ([Amazon](https://www.amazon.com/dp/1787280640/))
-* Head First Ruby ([Amazon](https://www.amazon.com/dp/9781449372651/))
 * Black Hat Ruby ([Amazon](https://www.amazon.com/dp/B08JHSF6GT/))
 * Programming Ruby 1.9 & 2.0 (The Pickaxe) ([Amazon](https://www.amazon.com/dp/1937785491/))
 * The Ruby Way (Addison-Wesley) ([Amazon](https://www.amazon.com/dp/0321714636/))
@@ -70,15 +68,21 @@
 
 ## Meh
 
-* [Ruby Beginner's Crash Course](https://www.amazon.com/dp/1777942802/)
+* Ruby Beginner's Crash Course ([Amazon](https://www.amazon.com/dp/1777942802/))
     - No author name, reviews, preview? No thanks.
 * Ruby Programming for Beginners ([Amazon](https://www.amazon.com/dp/B08992KQLH/))
     - (Self-)Published 2020, Ruby 2.6
+* Comprehensive Ruby Programming ([Amazon](https://www.amazon.com/dp/1787280640/))
+    - Published 2017, Ruby 2.3
+    - Almost no (and low at that) reviews when new.
 * Ruby Pocket Reference (O'Reilly) ([Amazon](https://www.amazon.com/dp/1491926015/))
     - Published 2015, Ruby 2.2
 * Ruby Cookbook: Recipes for Object-Oriented Scripting (O'Reilly) ([Amazon](https://www.amazon.com/dp/1449373712/))
     - Published 2015, Ruby 2.1
     - No reviews to speak of even when it was new.
+* Head First Ruby ([Amazon](https://www.amazon.com/dp/1449372651/))
+    - Published 2015, Ruby 2.0
+    - It's one of those books that came out when Ruby was booming but the publisher has since moved on. Reviews were decent but it's by no means iconic. If you just *loved* the Head First series and want to pick up a used copy to get started, ok.
 * The Book of Ruby: A Hands-On Guide for the Adventurous ([Amazon](https://www.amazon.com/dp/1593272944/))
     - Published 2011, Ruby 1.8, 1.9
     - Mixed (and few) reviews even when it was new.
