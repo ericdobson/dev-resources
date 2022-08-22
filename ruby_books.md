@@ -8,7 +8,6 @@
 
 *Unreviewed, initially with Amazon links only.*
 
-* Programming Ruby 1.9 & 2.0 (The Pickaxe) ([Amazon](https://www.amazon.com/dp/1937785491/))
 * The Ruby Way (Addison-Wesley) ([Amazon](https://www.amazon.com/dp/0321714636/))
 * Intro To Ruby Programming ([Amazon](https://www.amazon.com/dp/0692714413/))
 * Ruby For Beginners (iCode Academy) ([Amazon](https://www.amazon.com/dp/1521367701/))
@@ -39,14 +38,11 @@
 
 
 
-## Intermediate, Reference
+## Intermediate
 
 * Eloquent Ruby (Addison-Wesley) ([Amazon](https://www.amazon.com/dp/0321584104/))
     - Published 2011, Ruby 1.9
     - Progress beyond “correct” code to idiomatic Ruby.
-* The Ruby Programming Language ([O'Reilly](https://www.oreilly.com/library/view/the-ruby-programming/9780596516178/), [Amazon](https://www.amazon.com/dp/0596516177/))
-    - Published 2008, Ruby 1.8 and 1.9. *Ruby in a Nutshell* was expanded and updated into this book.
-    - It's (co)written by Matz and the basics don't change. Worth a spot on the shelf.
 
 
 
@@ -65,6 +61,18 @@
 * [99 Bottles of OOP, 2nd ed.](https://sandimetz.com/99bottles)
 * Computer Science Programming Basics in Ruby ([Amazon](https://www.amazon.com/dp/1449355978/))
 * Data Structures and Algorithms in Ruby ([Amazon](https://www.amazon.com/dp/B0B3F2BZ9M/))
+
+
+
+## Reference, History
+
+* Programming Ruby 1.9 & 2.0 (The Pickaxe) ([PragProg]([Programming Ruby 1.9 & 2.0](https://pragprog.com/titles/ruby4/programming-ruby-1-9-2-0-4th-edition/)), [Amazon](https://www.amazon.com/dp/1937785491/))
+    - Last updated 2013
+    - Iconic. Used to be *the* Ruby book. I'm not sure why it was abandoned.
+    - Pick up a used copy for $3 if you're inclined toward nostalgia.
+* The Ruby Programming Language ([O'Reilly](https://www.oreilly.com/library/view/the-ruby-programming/9780596516178/), [Amazon](https://www.amazon.com/dp/0596516177/))
+    - Published 2008, Ruby 1.8 and 1.9. *Ruby in a Nutshell* was expanded and updated into this book.
+    - It's (co)written by Matz and the basics don't change. Worth a spot on the shelf.
 
 
 
