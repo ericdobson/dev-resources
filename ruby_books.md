@@ -20,6 +20,15 @@
     - How much of this still applies?
 * I Love Ruby ([Amazon](https://www.amazon.com/dp/B07NGY8PZ5/))
 * Effective Ruby: 48 Specific Ways to Write Better Ruby ([Amazon](https://www.amazon.com/dp/0133846970/))
+* Refactoring: Ruby Edition
+* Ruby Quick Syntax Reference
+* Test Driven Development in Ruby
+* Ruby Data Processing
+* Practical Ruby Gems ([Amazon](https://www.amazon.com/dp/1590598113/))
+* Practical Ruby Projects ([Amazon](https://www.amazon.com/dp/159059911X/))
+* Clean Ruby ([Amazon](https://www.amazon.com/dp/148425547X/))
+* Practical Ruby for System Administration ([Amazon](https://www.amazon.com/dp/1590598210/))
+* Ruby Recipes ([Amazon](https://www.amazon.com/dp/1484224701/))
 
 
 
