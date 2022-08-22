@@ -8,7 +8,6 @@
 
 *Unreviewed, initially with Amazon links only.*
 
-* The Ruby Way (Addison-Wesley) ([Amazon](https://www.amazon.com/dp/0321714636/))
 * Intro To Ruby Programming ([Amazon](https://www.amazon.com/dp/0692714413/))
 * Ruby For Beginners (iCode Academy) ([Amazon](https://www.amazon.com/dp/1521367701/))
 * Ruby Wizardry: An Introduction to Programming for Kids ([Amazon](https://www.amazon.com/dp/1593275668/))
@@ -66,6 +65,11 @@
 
 ## Reference, History
 
+* The Ruby Way: Solutions and Techniques in Ruby Programming (Addison-Wesley) ([Amazon](https://www.amazon.com/dp/0321714636/))
+    - 3rd edition published 2015, Ruby 2.1
+    - ”This book is largely intended to answer questions of the form ‘How do I…?.’ As such, you can expect to do a lot of skipping around.” Sounds like what you're doing online already.
+    - “As the second Ruby book in the English language (after *Programming Ruby*, by Dave Thomas and Andy Hunt), *The Ruby Way* was designed to be complementary to that book rather than overlap with it; that is still true today.”
+    - Certainly has history/nostalgia. If you get an old Pickaxe, get one of these to go with it.
 * Programming Ruby 1.9 & 2.0 (The Pickaxe) ([PragProg]([Programming Ruby 1.9 & 2.0](https://pragprog.com/titles/ruby4/programming-ruby-1-9-2-0-4th-edition/)), [Amazon](https://www.amazon.com/dp/1937785491/))
     - Last updated 2013
     - Iconic. Used to be *the* Ruby book. I'm not sure why it was abandoned.
