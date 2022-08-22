@@ -8,7 +8,6 @@
 
 *Unreviewed, initially with Amazon links only.*
 
-* Black Hat Ruby ([Amazon](https://www.amazon.com/dp/B08JHSF6GT/))
 * Programming Ruby 1.9 & 2.0 (The Pickaxe) ([Amazon](https://www.amazon.com/dp/1937785491/))
 * The Ruby Way (Addison-Wesley) ([Amazon](https://www.amazon.com/dp/0321714636/))
 * Intro To Ruby Programming ([Amazon](https://www.amazon.com/dp/0692714413/))
@@ -51,9 +50,12 @@
 
 
 
-## Advanced
+## Advanced, Specialty
 
 * Polished Ruby Programming ([Amazon](https://www.amazon.com/dp/1801072728/))
+* Black Hat Ruby ([Amazon](https://www.amazon.com/dp/B08JHSF6GT/))
+    - Published 2020, Ruby v?, aimed at security pros
+    - This could be garbage. Haven't looked more closely.
 
 
 
