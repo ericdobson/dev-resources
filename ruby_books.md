@@ -8,9 +8,6 @@
 
 *Unreviewed, initially with Amazon links only.*
 
-* Ruby Wizardry: An Introduction to Programming for Kids ([Amazon](https://www.amazon.com/dp/1593275668/))
-* Confident Ruby: 32 Patterns for Joyful Coding (2011) ([Amazon](https://www.amazon.com/dp/B00ETE0D2S/))
-* Exceptional Ruby: Master the Art of Handling Failure in Ruby (2011) ([PragProg](https://pragprog.com/titles/ager/exceptional-ruby/))
 * Learn Ruby the Hard Way ([Amazon](https://www.amazon.com/dp/032188499X/))
 * Ruby Under a Microscope ([Amazon](https://www.amazon.com/dp/1593275277/))
 * Design Patterns in Ruby ([Amazon](https://www.amazon.com/dp/0321490452/))
@@ -46,6 +43,11 @@
 
 ## Intermediate
 
+* Confident Ruby: 32 Patterns for Joyful Coding ([Author](https://avdi.codes/books/), [PragProg](https://pragprog.com/titles/agcr/confident-ruby/), [Amazon](https://www.amazon.com/dp/B00ETE0D2S/))
+    - Published 2013
+    - That Sandi Metz wrote the foreword is all I needed to know.
+* Exceptional Ruby: Master the Art of Handling Failure in Ruby ([Author](https://avdi.codes/books/), [PragProg](https://pragprog.com/titles/ager/exceptional-ruby/))
+    - Published 2011
 * Eloquent Ruby (Addison-Wesley) ([Amazon](https://www.amazon.com/dp/0321584104/))
     - Published 2011, Ruby 1.9
     - Progress beyond “correct” code to idiomatic Ruby.
@@ -72,22 +74,22 @@
 
 ## Reference, History
 
-* The Ruby Way: Solutions and Techniques in Ruby Programming (Addison-Wesley) ([Amazon](https://www.amazon.com/dp/0321714636/))
+* **The Ruby Way: Solutions and Techniques in Ruby Programming** (Addison-Wesley) ([Amazon](https://www.amazon.com/dp/0321714636/))
     - 3rd edition published 2015, Ruby 2.1
     - ”This book is largely intended to answer questions of the form ‘How do I…?.’ As such, you can expect to do a lot of skipping around.” Sounds like what you're doing online already.
     - “As the second Ruby book in the English language (after *Programming Ruby*, by Dave Thomas and Andy Hunt), *The Ruby Way* was designed to be complementary to that book rather than overlap with it; that is still true today.”
     - Certainly has history/nostalgia. If you get an old Pickaxe, get one of these to go with it.
-* Programming Ruby 1.9 & 2.0 (The Pickaxe) ([PragProg]([Programming Ruby 1.9 & 2.0](https://pragprog.com/titles/ruby4/programming-ruby-1-9-2-0-4th-edition/)), [Amazon](https://www.amazon.com/dp/1937785491/))
+* **Programming Ruby 1.9 & 2.0** (The Pickaxe) ([PragProg]([Programming Ruby 1.9 & 2.0](https://pragprog.com/titles/ruby4/programming-ruby-1-9-2-0-4th-edition/)), [Amazon](https://www.amazon.com/dp/1937785491/))
     - Last updated 2013
     - Iconic. Used to be *the* Ruby book. I'm not sure why it was abandoned.
     - Pick up a used copy for $3 if you're inclined toward nostalgia.
-* The Ruby Programming Language ([O'Reilly](https://www.oreilly.com/library/view/the-ruby-programming/9780596516178/), [Amazon](https://www.amazon.com/dp/0596516177/))
+* **The Ruby Programming Language** ([O'Reilly](https://www.oreilly.com/library/view/the-ruby-programming/9780596516178/), [Amazon](https://www.amazon.com/dp/0596516177/))
     - Published 2008, Ruby 1.8 and 1.9. *Ruby in a Nutshell* was expanded and updated into this book.
     - It's (co)written by Matz and the basics don't change. Worth a spot on the shelf.
 
 
 
-## Meh
+## Meh (or just outdated)
 
 * Ruby Beginner's Crash Course ([Amazon](https://www.amazon.com/dp/1777942802/))
     - No author name, reviews, preview? No thanks.
@@ -110,6 +112,9 @@
 * Head First Ruby ([Amazon](https://www.amazon.com/dp/1449372651/))
     - Published 2015, Ruby 2.0
     - It's one of those books that came out when Ruby was booming but the publisher has since moved on. Reviews were decent but it's by no means iconic. If you just *loved* the Head First series and want to pick up a used copy to get started, ok.
+* Ruby Wizardry: An Introduction to Programming for Kids ([Amazon](https://www.amazon.com/dp/1593275668/))
+    - Published 2014, Ruby 2.0
+    - Interesting approach.
 * The Book of Ruby: A Hands-On Guide for the Adventurous ([Amazon](https://www.amazon.com/dp/1593272944/))
     - Published 2011, Ruby 1.8, 1.9
     - Mixed (and few) reviews even when it was new.
