@@ -8,8 +8,6 @@
 
 *Unreviewed, initially with Amazon links only.*
 
-* **Practical Ruby Gems** ([Amazon](https://www.amazon.com/dp/1590598113/))
-    - Published 2007
 * **Practical Ruby Projects** ([Amazon](https://www.amazon.com/dp/159059911X/))
 * **Clean Ruby** ([Amazon](https://www.amazon.com/dp/148425547X/))
 * **Practical Ruby for System Administration** ([Amazon](https://www.amazon.com/dp/1590598210/))
@@ -146,3 +144,6 @@
 * The Book of Ruby: A Hands-On Guide for the Adventurous ([Amazon](https://www.amazon.com/dp/1593272944/))
     - Published 2011, Ruby 1.8, 1.9
     - Mixed (and few) reviews even when it was new.
+* Practical Ruby Gems ([Amazon](https://www.amazon.com/dp/1590598113/))
+    - Published 2007
+    - Significantly outdated for the subject. Mixed reviews even when new.
