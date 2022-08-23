@@ -8,11 +8,12 @@
 
 *Unreviewed, initially with Amazon links only.*
 
-* Practical Ruby Gems ([Amazon](https://www.amazon.com/dp/1590598113/))
-* Practical Ruby Projects ([Amazon](https://www.amazon.com/dp/159059911X/))
-* Clean Ruby ([Amazon](https://www.amazon.com/dp/148425547X/))
-* Practical Ruby for System Administration ([Amazon](https://www.amazon.com/dp/1590598210/))
-* Ruby Recipes ([Amazon](https://www.amazon.com/dp/1484224701/))
+* **Practical Ruby Gems** ([Amazon](https://www.amazon.com/dp/1590598113/))
+    - Published 2007
+* **Practical Ruby Projects** ([Amazon](https://www.amazon.com/dp/159059911X/))
+* **Clean Ruby** ([Amazon](https://www.amazon.com/dp/148425547X/))
+* **Practical Ruby for System Administration** ([Amazon](https://www.amazon.com/dp/1590598210/))
+* **Ruby Recipes** ([Amazon](https://www.amazon.com/dp/1484224701/))
 * **Refactoring in Ruby** ([Amazon](https://www.amazon.com/dp/0321545044/))
     - Published 2009
     - Not to be confused with *Refactoring: Ruby Edition*
@@ -21,20 +22,20 @@
 
 ## Suitable for Beginners
 
-* ★ Learn to Program ([PragProg](https://pragprog.com/titles/ltp3/), [Amazon](https://www.amazon.com/dp/1680508172/))
+* ★ **Learn to Program** ([PragProg](https://pragprog.com/titles/ltp3/), [Amazon](https://www.amazon.com/dp/1680508172/))
     - Ideal for beginners to programming, not those switching from other languages.
-* I Love Ruby ([Amazon](https://www.amazon.com/dp/1796378429/))
+* **I Love Ruby** ([Amazon](https://www.amazon.com/dp/1796378429/))
     - Book on Amazon was published 2019, Ruby 2.5
     - Latest version [available online for free](https://i-love-ruby.gitlab.io), Ruby 3.0
     - I haven't yet reviewed for quality/usefulness/comparison to other sources.
-* Beginning Ruby 3: From Beginner to Pro ([Amazon](https://www.amazon.com/dp/1484263235/))
+* **Beginning Ruby 3: From Beginner to Pro** ([Amazon](https://www.amazon.com/dp/1484263235/))
     - Published 2020, Ruby 3.0 (but any version is suitable for these beginner topics)
-* The Well-Grounded Rubyist, 3rd ed. ([Amazon](https://www.amazon.com/dp/1617295213/))
+* **The Well-Grounded Rubyist, 3rd ed.** ([Amazon](https://www.amazon.com/dp/1617295213/))
     - 2019, “Updated for Ruby 2.5”
     - Beginner+
-* The Little Book Of Ruby Programming ([Amazon](https://www.amazon.com/dp/1913132072/))
+* **The Little Book Of Ruby Programming** ([Amazon](https://www.amazon.com/dp/1913132072/))
     - Very beginner
-* Learn Ruby the Hard Way ([Amazon](https://www.amazon.com/dp/032188499X/))
+* **Learn Ruby the Hard Way** ([Amazon](https://www.amazon.com/dp/032188499X/))
     - Published 2014
     - Style isn't for everyone. Luckily it's [free to read online](https://learnrubythehardway.org/book/). If you like it, $30 for a PDF and accompanying videos.
 
@@ -67,7 +68,7 @@
         - But now the [2nd edition (2018)](https://www.amazon.com/dp/0134757599/) is out, and it uses JavaScript, specifically to make it as accessible to as many people as possible. They specifically say you don't need to know JavaScript to get the point and apply the concepts to any language.
         - So that's the tradeoff: A more recent version in JavaScript, or the older version in Ruby. I think your preference is what matters most. The important thing is to learn the underlying concepts.
         - Now that I think about it, the Ruby version is as cheap as two dollars, and it's in Ruby. Get it and move on.
-* Design Patterns in Ruby ([Amazon](https://www.amazon.com/dp/0321490452/))
+* **Design Patterns in Ruby** ([Amazon](https://www.amazon.com/dp/0321490452/))
     - Published 2007
     - Don't get the Kindle version. Consistent comments about poor code formatting.
 
@@ -88,12 +89,12 @@
 
 ## Books *in* Ruby, not specifically *about* Ruby
 
-* Test Driven Development in Ruby ([Amazon](https://www.amazon.com/dp/1484226372/))
+* **Test Driven Development in Ruby** ([Amazon](https://www.amazon.com/dp/1484226372/))
     - Published 2017, Ruby v?
-* ★ [Practical Object-Oriented Design](https://www.poodr.com), 2nd ed.; Sandi Metz ([Amazon](https://www.amazon.com/dp/0134456475/))
-* [99 Bottles of OOP, 2nd ed.](https://sandimetz.com/99bottles)
-* Computer Science Programming Basics in Ruby ([Amazon](https://www.amazon.com/dp/1449355978/))
-* Data Structures and Algorithms in Ruby ([Amazon](https://www.amazon.com/dp/B0B3F2BZ9M/))
+* ★ [**Practical Object-Oriented Design**](https://www.poodr.com), 2nd ed.; Sandi Metz ([Amazon](https://www.amazon.com/dp/0134456475/))
+* [**99 Bottles of OOP, 2nd ed.**](https://sandimetz.com/99bottles)
+* **Computer Science Programming Basics in Ruby** ([Amazon](https://www.amazon.com/dp/1449355978/))
+* **Data Structures and Algorithms in Ruby** ([Amazon](https://www.amazon.com/dp/B0B3F2BZ9M/))
 
 
 
