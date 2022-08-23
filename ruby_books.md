@@ -8,8 +8,6 @@
 
 *Unreviewed, initially with Amazon links only.*
 
-* Test Driven Development in Ruby
-* Ruby Data Processing
 * Practical Ruby Gems ([Amazon](https://www.amazon.com/dp/1590598113/))
 * Practical Ruby Projects ([Amazon](https://www.amazon.com/dp/159059911X/))
 * Clean Ruby ([Amazon](https://www.amazon.com/dp/148425547X/))
@@ -77,15 +75,21 @@
 
 ## Advanced, Specialty
 
-* Polished Ruby Programming ([Amazon](https://www.amazon.com/dp/1801072728/))
-* Black Hat Ruby ([Amazon](https://www.amazon.com/dp/B08JHSF6GT/))
+* **Polished Ruby Programming** ([Amazon](https://www.amazon.com/dp/1801072728/))
+* **Black Hat Ruby** ([Amazon](https://www.amazon.com/dp/B08JHSF6GT/))
     - Published 2020, Ruby v?, aimed at security pros
     - This could be garbage. Haven't looked more closely.
+* **Ruby Data Processing: Using Map, Reduce, and Select** ([Amazon](https://www.amazon.com/dp/1484234731/))
+    - Published 2018, Ruby v?
+    - No reviews, quickly out of print, no sample on Amazon?
+    - It's only 113 pages. A few dollars used. Might have to check this one out.
 
 
 
 ## Books *in* Ruby, not specifically *about* Ruby
 
+* Test Driven Development in Ruby ([Amazon](https://www.amazon.com/dp/1484226372/))
+    - Published 2017, Ruby v?
 * ★ [Practical Object-Oriented Design](https://www.poodr.com), 2nd ed.; Sandi Metz ([Amazon](https://www.amazon.com/dp/0134456475/))
 * [99 Bottles of OOP, 2nd ed.](https://sandimetz.com/99bottles)
 * Computer Science Programming Basics in Ruby ([Amazon](https://www.amazon.com/dp/1449355978/))
