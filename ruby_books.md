@@ -8,7 +8,6 @@
 
 *Unreviewed, initially with Amazon links only.*
 
-* Ruby Under a Microscope ([Amazon](https://www.amazon.com/dp/1593275277/))
 * Design Patterns in Ruby ([Amazon](https://www.amazon.com/dp/0321490452/))
 * Ruby Performance Optimization ([Amazon](https://www.amazon.com/dp/1680500694/))
     - How much of this still applies?
@@ -45,12 +44,16 @@
 
 ## Intermediate
 
-* Confident Ruby: 32 Patterns for Joyful Coding ([Author](https://avdi.codes/books/), [PragProg](https://pragprog.com/titles/agcr/confident-ruby/), [Amazon](https://www.amazon.com/dp/B00ETE0D2S/))
+* **Confident Ruby: 32 Patterns for Joyful Coding** ([Author](https://avdi.codes/books/), [PragProg](https://pragprog.com/titles/agcr/confident-ruby/), [Amazon](https://www.amazon.com/dp/B00ETE0D2S/))
     - Published 2013
     - That Sandi Metz wrote the foreword is all I needed to know.
-* Exceptional Ruby: Master the Art of Handling Failure in Ruby ([Author](https://avdi.codes/books/), [PragProg](https://pragprog.com/titles/ager/exceptional-ruby/))
+* **Ruby Under a Microscope** ([Author](https://patshaughnessy.net/ruby-under-a-microscope), [Publisher](https://nostarch.com/rum), [Amazon](https://www.amazon.com/dp/1593275277/))
+    - Published 2013
+    - This book somewhat defies beginning/intermediate/advanced categorization. In a way it's better to consider what level you aspire to, rather than where you're at. This is best suited to those who aspire to advanced/expert Ruby. But you could start reading it once you're functional past the most beginner level.
+    - Or consider how you tend to think about things. If understanding the underlying *why* makes it much easier for you to learn the *how*, this is for you. If others were grinding gears and burning the clutch while you were sitting down to first read about how manual transmissions work, yes again.
+* **Exceptional Ruby: Master the Art of Handling Failure in Ruby** ([Author](https://avdi.codes/books/), [PragProg](https://pragprog.com/titles/ager/exceptional-ruby/))
     - Published 2011
-* Eloquent Ruby (Addison-Wesley) ([Amazon](https://www.amazon.com/dp/0321584104/))
+* **Eloquent Ruby** (Addison-Wesley) ([Amazon](https://www.amazon.com/dp/0321584104/))
     - Published 2011, Ruby 1.9
     - Progress beyond “correct” code to idiomatic Ruby.
 
