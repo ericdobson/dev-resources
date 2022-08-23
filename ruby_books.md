@@ -8,7 +8,6 @@
 
 *Unreviewed, initially with Amazon links only.*
 
-* I Love Ruby ([Amazon](https://www.amazon.com/dp/B07NGY8PZ5/))
 * Effective Ruby: 48 Specific Ways to Write Better Ruby ([Amazon](https://www.amazon.com/dp/0133846970/))
 * Refactoring: Ruby Edition
 * Ruby Quick Syntax Reference
@@ -26,6 +25,10 @@
 
 * ★ Learn to Program ([PragProg](https://pragprog.com/titles/ltp3/), [Amazon](https://www.amazon.com/dp/1680508172/))
     - Ideal for beginners to programming, not those switching from other languages.
+* I Love Ruby ([Amazon](https://www.amazon.com/dp/1796378429/))
+    - Book on Amazon was published 2019, Ruby 2.5
+    - Latest version [available online for free](https://i-love-ruby.gitlab.io), Ruby 3.0
+    - I haven't yet reviewed for quality/usefulness/comparison to other sources.
 * Beginning Ruby 3: From Beginner to Pro ([Amazon](https://www.amazon.com/dp/1484263235/))
     - Published 2020, Ruby 3.0 (but any version is suitable for these beginner topics)
 * The Well-Grounded Rubyist, 3rd ed. ([Amazon](https://www.amazon.com/dp/1617295213/))
