@@ -8,7 +8,6 @@
 
 *Unreviewed, initially with Amazon links only.*
 
-* Ruby For Beginners (iCode Academy) ([Amazon](https://www.amazon.com/dp/1521367701/))
 * Ruby Wizardry: An Introduction to Programming for Kids ([Amazon](https://www.amazon.com/dp/1593275668/))
 * Confident Ruby: 32 Patterns for Joyful Coding (2011) ([Amazon](https://www.amazon.com/dp/B00ETE0D2S/))
 * Exceptional Ruby: Master the Art of Handling Failure in Ruby (2011) ([PragProg](https://pragprog.com/titles/ager/exceptional-ruby/))
@@ -97,9 +96,12 @@
 * Comprehensive Ruby Programming ([Amazon](https://www.amazon.com/dp/1787280640/))
     - Published 2017, Ruby 2.3
     - Almost no (and low at that) reviews when new.
+* Ruby For Beginners (iCode Academy) ([Amazon](https://www.amazon.com/dp/1521367701/))
+    - Published 2017, Ruby 1.9.3 & up recommended, for complete beginners.
+    - A series iCode Academy played with publishing in 2017 and then abandoned. I'm not sure how they could've jammed one more Ruby Programming SEO keyword on the back cover.
 * Intro To Ruby Programming ([Amazon](https://www.amazon.com/dp/0692714413/))
     - Published 2016, Ruby v?, for total beginners
-    - If anyone ever asks I'll explain why this is a meh for me.
+    - An outdated attempt at boosting the author's lifestyle business. No thanks.
 * Ruby Pocket Reference (O'Reilly) ([Amazon](https://www.amazon.com/dp/1491926015/))
     - Published 2015, Ruby 2.2
 * Ruby Cookbook: Recipes for Object-Oriented Scripting (O'Reilly) ([Amazon](https://www.amazon.com/dp/1449373712/))
