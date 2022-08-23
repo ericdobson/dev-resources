@@ -8,7 +8,6 @@
 
 *Unreviewed, initially with Amazon links only.*
 
-* Ruby Quick Syntax Reference
 * Test Driven Development in Ruby
 * Ruby Data Processing
 * Practical Ruby Gems ([Amazon](https://www.amazon.com/dp/1590598113/))
@@ -16,6 +15,9 @@
 * Clean Ruby ([Amazon](https://www.amazon.com/dp/148425547X/))
 * Practical Ruby for System Administration ([Amazon](https://www.amazon.com/dp/1590598210/))
 * Ruby Recipes ([Amazon](https://www.amazon.com/dp/1484224701/))
+* **Refactoring in Ruby** ([Amazon](https://www.amazon.com/dp/0321545044/))
+    - Published 2009
+    - Not to be confused with *Refactoring: Ruby Edition*
 
 
 
@@ -134,6 +136,8 @@
 * Ruby Wizardry: An Introduction to Programming for Kids ([Amazon](https://www.amazon.com/dp/1593275668/))
     - Published 2014, Ruby 2.0
     - Interesting approach.
+* Ruby Quick Syntax Reference ([Amazon](https://www.amazon.com/dp/143026568X/))
+    - Published 2014
 * The Book of Ruby: A Hands-On Guide for the Adventurous ([Amazon](https://www.amazon.com/dp/1593272944/))
     - Published 2011, Ruby 1.8, 1.9
     - Mixed (and few) reviews even when it was new.
