@@ -8,7 +8,6 @@
 
 *Unreviewed, initially with Amazon links only.*
 
-* Design Patterns in Ruby ([Amazon](https://www.amazon.com/dp/0321490452/))
 * Ruby Performance Optimization ([Amazon](https://www.amazon.com/dp/1680500694/))
     - How much of this still applies?
 * I Love Ruby ([Amazon](https://www.amazon.com/dp/B07NGY8PZ5/))
@@ -56,6 +55,9 @@
 * **Eloquent Ruby** (Addison-Wesley) ([Amazon](https://www.amazon.com/dp/0321584104/))
     - Published 2011, Ruby 1.9
     - Progress beyond “correct” code to idiomatic Ruby.
+* Design Patterns in Ruby ([Amazon](https://www.amazon.com/dp/0321490452/))
+    - Published 2007
+    - Don't get the Kindle version. Consistent comments about poor code formatting.
 
 
 
