@@ -8,7 +8,6 @@
 
 *Unreviewed, initially with Amazon links only.*
 
-* Learn Ruby the Hard Way ([Amazon](https://www.amazon.com/dp/032188499X/))
 * Ruby Under a Microscope ([Amazon](https://www.amazon.com/dp/1593275277/))
 * Design Patterns in Ruby ([Amazon](https://www.amazon.com/dp/0321490452/))
 * Ruby Performance Optimization ([Amazon](https://www.amazon.com/dp/1680500694/))
@@ -38,6 +37,9 @@
     - Beginner+
 * The Little Book Of Ruby Programming ([Amazon](https://www.amazon.com/dp/1913132072/))
     - Very beginner
+* Learn Ruby the Hard Way ([Amazon](https://www.amazon.com/dp/032188499X/))
+    - Published 2014
+    - Style isn't for everyone. Luckily it's [free to read online](https://learnrubythehardway.org/book/). If you like it, $30 for a PDF and accompanying videos.
 
 
 
