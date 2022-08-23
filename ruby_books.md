@@ -8,7 +8,6 @@
 
 *Unreviewed, initially with Amazon links only.*
 
-* Effective Ruby: 48 Specific Ways to Write Better Ruby ([Amazon](https://www.amazon.com/dp/0133846970/))
 * Refactoring: Ruby Edition
 * Ruby Quick Syntax Reference
 * Test Driven Development in Ruby
@@ -47,6 +46,9 @@
 * **Ruby Performance Optimization** ([Amazon](https://www.amazon.com/dp/1680500694/))
     - Published 2015, Ruby 2.2
     - How much of this still applies? Browse chapter one for free. Run the code using the latest Ruby. Decide for yourself if there's still value here.
+* **Effective Ruby: 48 Specific Ways to Write Better Ruby** ([Amazon](https://www.amazon.com/dp/0133846970/))
+    - Published 2014, Ruby 1.9.3, 2.1, etc. (not picky)
+    - Another book focused on settling in to quality, idiomatic Ruby. It covers Ruby more generally, not focused on a specific (now outdated) version. It's published by Addison-Wesley (generally high quality). Seems worth a look.
 * **Confident Ruby: 32 Patterns for Joyful Coding** ([Author](https://avdi.codes/books/), [PragProg](https://pragprog.com/titles/agcr/confident-ruby/), [Amazon](https://www.amazon.com/dp/B00ETE0D2S/))
     - Published 2013
     - That Sandi Metz wrote the foreword is all I needed to know.
