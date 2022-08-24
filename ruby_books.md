@@ -8,7 +8,6 @@
 
 *Unreviewed, initially with Amazon links only.*
 
-* **Ruby Recipes** ([Amazon](https://www.amazon.com/dp/1484224701/))
 * **Refactoring in Ruby** ([Amazon](https://www.amazon.com/dp/0321545044/))
     - Published 2009
     - Not to be confused with *Refactoring: Ruby Edition*
@@ -30,6 +29,10 @@
     - Beginner+
 * **The Little Book Of Ruby Programming** ([Amazon](https://www.amazon.com/dp/1913132072/))
     - Very beginner
+* **Ruby Recipes: A Problem-Solution Approach** ([Amazon](https://www.amazon.com/dp/1484224701/))
+    - Published 2016, Ruby 2.3.1
+    - “Target Audience: If someone knows at least one computer language and wants to have a quick go at Ruby; wants to quickly get up and running with Ruby for some programming tasks, without learning all the language features; wants to pick up a computer language well enough (rather quickly) to develop programs to accomplish certain tasks or is seeking a computer language where simple development is rather quick and lucid, he can be god use of the book. It is a reasonably quick (and possibly interesting) read and comes with a lot of ready code.”
+    - If that speaks to you, maybe check it out.
 * **Learn Ruby the Hard Way** ([Amazon](https://www.amazon.com/dp/032188499X/))
     - Published 2014
     - Style isn't for everyone. Luckily it's [free to read online](https://learnrubythehardway.org/book/). If you like it, $30 for a PDF and accompanying videos.
