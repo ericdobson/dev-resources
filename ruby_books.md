@@ -8,7 +8,6 @@
 
 *Unreviewed, initially with Amazon links only.*
 
-* **Practical Ruby for System Administration** ([Amazon](https://www.amazon.com/dp/1590598210/))
 * **Ruby Recipes** ([Amazon](https://www.amazon.com/dp/1484224701/))
 * **Refactoring in Ruby** ([Amazon](https://www.amazon.com/dp/0321545044/))
     - Published 2009
@@ -88,6 +87,9 @@
         - “The code was tested on Ruby 1.8.5, but it should work on any 1.8 release. Time will tell how will it bridges the gap to 2.0. (I’m optimistic.)”
         - So… a bit outdated.
     - Still, could be interesting to take inspiration from the examples and adapt the code as needed.
+* **Practical Ruby for System Administration** ([Amazon](https://www.amazon.com/dp/1590598210/))
+    - Published 2007, Ruby 1.8?
+    - Significantly outdated, but compelling nonetheless. For a few dollars it may still inspire Ruby uses beyond web development.
 
 
 
