@@ -8,7 +8,6 @@
 
 *Unreviewed, initially with Amazon links only.*
 
-* **Practical Ruby Projects** ([Amazon](https://www.amazon.com/dp/159059911X/))
 * **Clean Ruby** ([Amazon](https://www.amazon.com/dp/148425547X/))
 * **Practical Ruby for System Administration** ([Amazon](https://www.amazon.com/dp/1590598210/))
 * **Ruby Recipes** ([Amazon](https://www.amazon.com/dp/1484224701/))
@@ -82,6 +81,11 @@
     - Published 2018, Ruby v?
     - No reviews, quickly out of print, no sample on Amazon?
     - It's only 113 pages. A few dollars used. Might have to check this one out.
+* **Practical Ruby Projects** ([Amazon](https://www.amazon.com/dp/159059911X/))
+    - Published 2007, Ruby 1.8.5
+        - “The code was tested on Ruby 1.8.5, but it should work on any 1.8 release. Time will tell how will it bridges the gap to 2.0. (I’m optimistic.)”
+        - So… a bit outdated.
+    - Still, could be interesting to take inspiration from the examples and adapt the code as needed.
 
 
 
