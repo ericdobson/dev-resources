@@ -8,7 +8,6 @@
 
 *Unreviewed, initially with Amazon links only.*
 
-* **Clean Ruby** ([Amazon](https://www.amazon.com/dp/148425547X/))
 * **Practical Ruby for System Administration** ([Amazon](https://www.amazon.com/dp/1590598210/))
 * **Ruby Recipes** ([Amazon](https://www.amazon.com/dp/1484224701/))
 * **Refactoring in Ruby** ([Amazon](https://www.amazon.com/dp/0321545044/))
@@ -40,6 +39,9 @@
 
 ## Intermediate
 
+* **Clean Ruby: A Guide to Crafting Better Code for Rubyists** ([O'Reilly](https://www.oreilly.com/library/view/clean-ruby-a/9781484255469/), [Amazon](https://www.amazon.com/dp/148425547X/))
+    - Published 2019, Ruby v?, 124 pages
+    - Very little info to go on. Won't be my first book on the topic, but I'd still like to read it.
 * **Ruby Performance Optimization** ([Amazon](https://www.amazon.com/dp/1680500694/))
     - Published 2015, Ruby 2.2
     - How much of this still applies? Browse chapter one for free. Run the code using the latest Ruby. Decide for yourself if there's still value here.
