@@ -1,16 +1,8 @@
 # Ruby Books
 
-- Status: Rough sort
+- Status: First pass complete
 - Doesn't include Rails.
 - ★ Specifically recommended
-
-## Inbox
-
-*Unreviewed, initially with Amazon links only.*
-
-* **Refactoring in Ruby** ([Amazon](https://www.amazon.com/dp/0321545044/))
-    - Published 2009
-    - Not to be confused with *Refactoring: Ruby Edition*
 
 
 
@@ -69,6 +61,10 @@
         - But now the [2nd edition (2018)](https://www.amazon.com/dp/0134757599/) is out, and it uses JavaScript, specifically to make it as accessible to as many people as possible. They specifically say you don't need to know JavaScript to get the point and apply the concepts to any language.
         - So that's the tradeoff: A more recent version in JavaScript, or the older version in Ruby. I think your preference is what matters most. The important thing is to learn the underlying concepts.
         - Now that I think about it, the Ruby version is as cheap as two dollars, and it's in Ruby. Get it and move on.
+* **Refactoring in Ruby** ([Amazon](https://www.amazon.com/dp/0321545044/))
+    - Published 2009
+    - Not to be confused with *Refactoring: Ruby Edition*, though it's advised by the authors to have a copy of that one alongside this.
+    - It's a few dollars, and another source. Only you can answer how much is enough.
 * **Design Patterns in Ruby** ([Amazon](https://www.amazon.com/dp/0321490452/))
     - Published 2007
     - Don't get the Kindle version. Consistent comments about poor code formatting.
