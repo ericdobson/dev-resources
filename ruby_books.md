@@ -10,6 +10,16 @@
 
 * ★ **Learn to Program** ([PragProg](https://pragprog.com/titles/ltp3/), [Amazon](https://www.amazon.com/dp/1680508172/))
     - Ideal for beginners to programming, not those switching from other languages.
+* ★ **Programming Ruby 1.9 & 2.0** (The PickAxe) ([PragProg]([Programming Ruby 1.9 & 2.0](https://pragprog.com/titles/ruby4/programming-ruby-1-9-2-0-4th-edition/)), [Amazon](https://www.amazon.com/dp/1937785491/))
+    - Last updated 2013
+    - 2021 opinion from Chris Pine in *Learn to Program, 3rd edition*
+        * Context: Eight years since the PickAxe was updated, writing in a book that uses Ruby 3.0
+        * I'll just quote it at length:
+            - “Absolutely *the* Ruby book to get is *Programming Ruby 1.9 & 2.0, The Pragmatic Programmers’ Guide* by Dave Thomas and others (from the Pragmatic Book- shelf).
+            - “You can find almost everything about Ruby, from the basic to the advanced, in this book. It’s easy to read, it’s comprehensive, and it’s close to perfect. I wish every language had a book of this quality. At the back of the book, you’ll find a huge section detailing every method in every class, explaining it, and giving examples. (This is why you want the fourth edition.) I love this book!
+            - “The title of the book suggests it’s only for Ruby 1.9 and 2.0, but it’s good for all 2.x versions of Ruby. And since it’s mostly only advanced features that have changed in Ruby 3, it’s still a great reference.”
+        * I love his book. I trust his opinion. So there you have it: The PickAxe is still *the* Ruby book, even eight years out of date.
+    - With no coding experience I'd start with *Learn to Program*. But with any background at all you probably won't have much trouble going straight to the PickAxe. Especially with what you can pick up online.
 * **I Love Ruby** ([Amazon](https://www.amazon.com/dp/1796378429/))
     - Book on Amazon was published 2019, Ruby 2.5
     - Latest version [available online for free](https://i-love-ruby.gitlab.io), Ruby 3.0
@@ -110,10 +120,6 @@
     - ”This book is largely intended to answer questions of the form ‘How do I…?.’ As such, you can expect to do a lot of skipping around.” Sounds like what you're doing online already.
     - “As the second Ruby book in the English language (after *Programming Ruby*, by Dave Thomas and Andy Hunt), *The Ruby Way* was designed to be complementary to that book rather than overlap with it; that is still true today.”
     - Certainly has history/nostalgia. If you get an old Pickaxe, get one of these to go with it.
-* **Programming Ruby 1.9 & 2.0** (The Pickaxe) ([PragProg]([Programming Ruby 1.9 & 2.0](https://pragprog.com/titles/ruby4/programming-ruby-1-9-2-0-4th-edition/)), [Amazon](https://www.amazon.com/dp/1937785491/))
-    - Last updated 2013
-    - Iconic. Used to be *the* Ruby book. I'm not sure why it was abandoned.
-    - Pick up a used copy for $3 if you're inclined toward nostalgia.
 * **The Ruby Programming Language** ([O'Reilly](https://www.oreilly.com/library/view/the-ruby-programming/9780596516178/), [Amazon](https://www.amazon.com/dp/0596516177/))
     - Published 2008, Ruby 1.8 and 1.9. *Ruby in a Nutshell* was expanded and updated into this book.
     - It's (co)written by Matz and the basics don't change. Worth a spot on the shelf.
