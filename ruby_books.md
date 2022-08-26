@@ -25,9 +25,9 @@
     - Published 2016, Ruby 2.3.1
     - “Target Audience: If someone knows at least one computer language and wants to have a quick go at Ruby; wants to quickly get up and running with Ruby for some programming tasks, without learning all the language features; wants to pick up a computer language well enough (rather quickly) to develop programs to accomplish certain tasks or is seeking a computer language where simple development is rather quick and lucid, he can be god use of the book. It is a reasonably quick (and possibly interesting) read and comes with a lot of ready code.”
     - If that speaks to you, maybe check it out.
-* **Learn Ruby the Hard Way** ([Amazon](https://www.amazon.com/dp/032188499X/))
-    - Published 2014
-    - Style isn't for everyone. Luckily it's [free to read online](https://learnrubythehardway.org/book/). If you like it, $30 for a PDF and accompanying videos.
+* **Learn Ruby the Hard Way** ([Free Online](https://learnrubythehardway.org/book/), [Amazon](https://www.amazon.com/dp/032188499X/))
+    - Published 2014. [Free to read online](https://learnrubythehardway.org/book/), $30 for a PDF and accompanying videos.
+    - Read the [Preface](https://learnrubythehardway.org/book/preface.html) and [Introduction](https://learnrubythehardway.org/book/intro.html). Any reviews critical because he's telling you to retype the code and to look things up yourself rather than explaining every detail? That's the point. He tells you that's the point. I understand some people don't want to follow that approach. But he's clear from page one it's the direction he's headed. If that *is* an approach you appreciate, the book may be a great fit.
 
 
 
